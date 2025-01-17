@@ -18,7 +18,7 @@ This project allows you to control your computer's mouse using hand gestures cap
 .
 ├── utils/
 │   └── HandTrackingModule.py   # Custom module for hand tracking
-├── HandGestureMouseControl.py  # Main Python script for the project
+├── AI_Virtual_Mouse.py         # Main Python script for the project
 └── README.md                   # Project documentation
 ```
 ## Prerequisites
