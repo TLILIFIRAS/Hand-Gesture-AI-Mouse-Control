@@ -37,7 +37,7 @@ You can install the required Python packages using `pip`:
 
 ```bash
 pip install opencv-python numpy autopy mediapipe
-
+```
 ### Hand Tracking Module
 This project uses a custom hand tracking module (HandTrackingModule.py), which is responsible for detecting hand landmarks, identifying which fingers are up, and calculating distances between key landmarks. This module is based on MediaPipe.
 HandTrackingModule.py
